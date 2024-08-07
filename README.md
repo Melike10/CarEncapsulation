@@ -13,6 +13,7 @@ This project demonstrates how to create a `Car` class in C# using the concept of
 ## Genel Bakış
 
 Tur-`CarEncapsulation` projesi, bir araba nesnesinin özelliklerini (marka, model, renk ve kapı sayısı) kapsülleme kullanarak kontrol eder. Kapı sayısı yalnızca 2 veya 4 olabilir; aksi takdirde bir hata mesajı yazdırılır ve kapı sayısı -1 olarak ayarlanır.
+
 Eng- The `CarEncapsulation` project uses encapsulation to manage the properties of a car object (make, model, color, and number of doors). The number of doors can only be 2 or 4; otherwise, an error message is printed, and the number of doors is set to -1.
 
 
@@ -20,8 +21,7 @@ Eng- The `CarEncapsulation` project uses encapsulation to manage the properties 
 -Aşağıdaki kod parçacığı, Car sınıfının nasıl kullanılacağını göstermektedir:
 -The following code snippet demonstrates how to use the Car class:
 
-csharp
-Copy code
+
 using System;
 
 namespace CarEncapsulation
